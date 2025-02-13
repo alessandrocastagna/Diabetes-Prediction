@@ -1,6 +1,4 @@
-# Diabetes-Prediction
-
-# Diabetes Prediction Competition  
+# Diabetes Prediction  
 
 ## Overview  
 This project explores whether it is possible to classify if a person is likely or unlikely to have diabetes based on a dataset. This challenge was presented in the **Kaggle Community Competitions**, hosted by **Knime**.
